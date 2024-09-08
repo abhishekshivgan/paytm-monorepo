@@ -20,5 +20,9 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@types/node": "^22.5.1",
+    "node": "^22.7.0"
+  }
 }
